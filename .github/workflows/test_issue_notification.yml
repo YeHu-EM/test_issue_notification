@@ -11,5 +11,8 @@ jobs:
         - uses: jenschelkopf/issue-label-notification-action@1.3
           with:
              recipients: |
+                  # Users define their subscriptions below
                   help wanted=@YeHu-EM
                   documentation=@YeHu-EM
+                  DMC=@YeHu-EM
+                  TDC=@YeHu-EM
